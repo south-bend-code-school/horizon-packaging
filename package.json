@@ -1,0 +1,19 @@
+{
+  "name": "horizon-packaging",
+  "version": "0.1.0",
+  "dependencies": {
+    "express":              "latest",
+    "pug":                  "latest",
+    "less":                 "latest"
+  },
+  "devDependencies": {
+    "grunt":                "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-jshint": "latest",
+    "jshint-stylish-cool":  "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch":  "latest",
+    "grunt-contrib-pug":    "latest",
+    "grunt-contrib-less":   "latest"
+  }
+}
